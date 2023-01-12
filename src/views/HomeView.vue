@@ -3,52 +3,44 @@
   <title>Portfolio</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous"> -->
+  
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
   <link rel="shortcut icon" href="https://i.postimg.cc/4NhTzjcV/smiley-PNG10.png" type="image/x-icon">
   
-  <link rel="stylesheet" href="./styles/styles.css">
-
-
-</head>
-
-
-
-  <!-- Icon Bar (Sidebar - hidden on small screens) -->
+ </head>
+ <!-- Icon Bar (Sidebar - hidden on small screens) -->
   <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
     <!-- Avatar image in top left corner -->
-    <img src="https://i.postimg.cc/0j6Ss9NY/mr-robot.jpg" class="mrrobot" style="width:100% 
-    ">
+    <img src="https://i.postimg.cc/0j6Ss9NY/mr-robot.jpg" class="mrrobot" style="width:100% ">
 
 
     <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
-      <i class="fa fa-home w3-xxlarge"></i>
+      
       <h3>HOME</h3>
     </a>
     <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-black">
-      <i class="fa fa-user w3-xxlarge"></i>
+      
       <h3>ABOUT</h3>
     </a>
     <a href="#testimonials" class="w3-bar-item w3-button w3-padding-large w3-black">
-      <i class="fa-solid fa-comments w3-xxlarge"></i>
+      
       <h3>TESTIMONIALS</h3>
     </a>
     <a href="#projects" class="w3-bar-item w3-button w3-padding-large w3-black">
-      <i class="fa-solid fa-briefcase w3-xxlarge"></i>
+      
       <h3>PROJECTS</h3>
     </a>
     <a href="#photos" class="w3-bar-item w3-button w3-padding-large w3-black">
-      <i class="fa-solid fa-image w3-xxlarge"></i>
+      
       <h3>PHOTOS</h3>
     </a>
     <a href="#resume" class="w3-bar-item w3-button w3-padding-large w3-black">
-      <i class="fa fa-envelope w3-xxlarge"></i>
+      
       <h3>RESUME</h3>
     </a>
     <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-black">
-      <i class="fa fa-envelope w3-xxlarge"></i>
+      
       <h3>CONTACT</h3>
     </a>
   
@@ -74,24 +66,16 @@
     <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
       <h3>Im a </h3>
       <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Moegamad Faeez Miller</h1>
-       
-      
-     
-      
       <img src="https://i.postimg.cc/wMyzQmwh/33f78851-dc97-4d4d-8b3e-7801158d376a.jpg" alt="Avatar" class="picture"
         style="height: 550px; width: 550px;">
-       
     </header>
+  </div>
 
-
-   
-    
-
-    
-    <div class="-padding-64 w3-content w3-text-light-grey" id="about">
+  <body>
+     <div class="-padding-64 w3-content w3-text-light-grey" id="about">
     </div>
-    <h2 class="w3-padding-16 w3-text-light-grey">About</h2>
-    <hr style="width:150px" class="w3-opacity">
+      <h2 class="w3-padding-16 w3-text-light-grey">About</h2>
+      <hr style="width:155px" class="w3-opacity">
       
 
         <p>I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team
@@ -104,27 +88,26 @@
           and am keen and very willing to learn and develop new skills. I am reliable and dependable and often seek new
           responsibilities within a wide range of employment areas. I have an active and dynamic approach to work and
           getting things done. I am determined and decisive.</p>
-      </div>
+      
         
       
 
       <h2 class="w3-padding-16 w3-text-light-grey">My Skills</h2>
       <hr style="width:150px" class="w3-opacity">
       <!--skill bars-->
-     
-      <p class="w3-wide">CSS<i class="fa-brands fa-css3-alt"></i></p>
-      <div class="w3-white">
-        <div class="w3-dark-grey" style="height:28px;width:65%"></div>
-      </div>
-      <br>
-      <p class="w3-wide">BOOTSTRAP<i class="fa-brands fa-bootstrap"></i></p>
-      <div class="w3-white">
-        <div class="w3-dark-grey" style="height:28px;width:60%"></div>
-      </div>
-      <br>
-      <p class="w3-wide">JAVASCRIPT<i class="fa-brands fa-css3-alt"></i></p>
+      <p class="w3-wide">JAVASCRIPT</p>
       <div class="w3-white">
         <div class="w3-dark-grey" style="height:28px;width:40%"></div>
+      </div>
+      <br>
+      <p class="w3-wide">CSS</p>
+      <div class="w3-white">
+        <div class="w3-dark-grey" style="height:28px;width:70%"></div>
+      </div>
+      <br>
+      <p class="w3-wide">BOOTSTRAP</p>
+      <div class="w3-white">
+        <div class="w3-dark-grey" style="height:28px;width:60%"></div>
       </div>
       
       <div class="w3-quarter w3-section">
@@ -132,77 +115,105 @@
         Projects Done
       </div>
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">2+</span><br>
+        <span class="w3-xlarge">5+</span><br>
         Happy Clients
       </div>
       <br>
-
-
-      <!-- <a href="./assets/resume/Resume.png">
-        <button class="w3-button w3-light-grey w3-padding-large w3-section">
-          <i class="fa fa-download"></i>
-          Download Resume
-        </button>
-      </a> -->
-
-
- 
       <br>
       <br>
+
+      
+  
+</body>
+    
       <br>
+      
       <div class="-padding-64 w3-content w3-text-light-grey" id="testimonials">
     </div>
       <h2 class="w3-padding-16 w3-text-light-grey">Testimonials</h2>
       <hr style="width:155px" class="w3-opacity">
+      
+      <figure class="snip1192">
+  <blockquote>Faeez is a hardworking, focused individual. I have a deep respect for his work ethic.</blockquote>
+  <div class="author">
+    <img src="https://i.postimg.cc/YC9CDfqX/3gwnhdk9.png" alt="@John Noad"/>
+    <h5>John Noad<span> Software Developer</span></h5>
+  </div>
+</figure>
+      <figure class="snip1192">
+  <blockquote>Faeez Miller is a down to earth, kind ,creative mature colleague. I highly admire his work ethic and passion.</blockquote>
+  <div class="author">
+    <img src="https://i.postimg.cc/Fs7p907q/cam.jpg" alt="@Camryn Herandien"/>
+    <h5>Camryn Herandien <span> Software Developer</span></h5>
+  </div>
+</figure>
+<figure class="snip1192 hover">
+  <blockquote>Faeez is hardworking, meticulous. I can proudly say his approach towards
+            work is always steadfast, which gets the task done without wasting time.</blockquote>
+  <div class="author">
+    <img src="https://i.postimg.cc/7hQp5D1y/52uigqv3.png" alt="@Deno Rautenbach"/>
+    <h5>Deno Rautenbach<span> Software Developer</span></h5>
+  </div>
+</figure>
+<figure class="snip1192">
+  <blockquote>Faeez is a funny and chilled guy. He is reliable and never hesitates to help out the next person. He truly has a heart of gold.</blockquote>
+  <div class="author">
+    <img src="https://i.postimg.cc/tRhk795d/a5l25dbb.png" alt="@Mu-een Slamat"/>
+    <h5>Mu-een Slamat<span> Software Developer</span></h5>
+  </div>
+</figure>
+<figure class="snip1192">
+  <blockquote>Faeez is attentive in his ability to listen to other's and asses what can be done. He is not afraid to put in the time and effort required to get the results he is looking for. </blockquote>
+  <div class="author">
+    <img src="https://i.postimg.cc/L86FNCX7/77t9r27u.png" alt="@Matthew Thomas"/>
+    <h5>Matthew Thomas<span> Software Developer</span></h5>
+  </div>
+</figure>
+<figure class="snip1192">
+  <blockquote>Faeez is a highly thought intellectual from my perspective. He is not only hardworking but ambitious to recreate his vision exactly as thought of.</blockquote>
+  <div class="author">
+    <img src="https://i.postimg.cc/DyWf3QXm/8fp54qi8.png" alt="@Aneeqa Brown"/>
+    <h5>Aneeqa Brown<span> Software Developer</span></h5>
+  </div>
+</figure>
 
-
-
-
-          <img
-          src="https://i.postimg.cc/kGsfxbhN/profile-1.jpg"
-            alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-          <p><span class="w3-large w3-margin-right">@Camryn Herandien</span> Web developer </p>
-          <p>Faeez Miller is a down to earth, kind ,creative mature colleague. Having somebody like him on your team
-            makes tasks a whole lot easier and less stressful. I highly admire his work ethic and passion. </p><br>
-
-          <img src="https://i.postimg.cc/rFCxLGbs/deno-720.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right"
-            style="width:80px">
-          <p><span class="w3-large w3-margin-right">@Deno Rautenbach</span> Web developer </p>
-          <p>Faeez is hardworking, meticulous. Having been on a team with him I can proudly say his approach towards
-            work is always steadfast and rigorous, which gets the task done without wasting time.</p><br>
-
-          <img src="https://i.postimg.cc/bvM2RmGC/download-13.jpg" alt="Avatar"
-            class="w3-left w3-circle w3-margin-right" style="width:80px">
-          <p><span class="w3-large w3-margin-right">@Mu-een Slamat</span> Web developer </p>
-          <p>Faeez is a funny and chilled guy. He is reliable and never hesitates to help out the next person. He always
-            tries to learn a new way of doing things. He truly has a heart of gold.</p><br>
-
-          <img src="https://i.postimg.cc/hvB77hwp/profile-pic1-720.jpg" alt="Avatar"
-            class="w3-left w3-circle w3-margin-right" style="width:80px">
-          <p><span class="w3-large w3-margin-right">@Matthew Thomas</span> Web developer </p>
-          <p>Faeez is attentive in his ability to Listen to other's and asses what can be done, regarding Projects or
-            Team Issues.<br>He is attentive in his ability to Listen to other's and asses what can be done.
-          </p><br>
-
-          <img src="https://i.postimg.cc/TPRC1h4r/DSC-3567.jpg" alt="Avatar"
-          class="w3-left w3-circle w3-margin-right" style="width:80px">
-            <p><span class="w3-large w3-margin-right">@John Noad</span> Web developer </p>
-          <p>Faeez is a hardworking, focused individual. He is always busy, and is not afraid to put in the time and effort required to get the results he is looking for. I have a deep respect for his work ethic, and the dynamic he brings into the workplace, keeps it interesting to say the least.</p><br>
           <br>
           <br>
           <br>
-
-
-
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
           
-          
-          
-    <div class="-padding-64 w3-content w3-text-light-grey" id="projects">
+       <br>
+       
+          <div class="-padding-64 w3-content w3-text-light-grey" id="projects">
     </div>
     <h2 class="w3-padding-16 w3-text-light-grey">Projects</h2>
     <hr style="width:120px" class="w3-opacity">
            
-            <div class="row">
+    <div class="row">
               
               <div class="col">
                 <div class="card bg-dark text-white" style="width: 18rem ;">
@@ -294,13 +305,23 @@
                     <center><a class="btn btn-dark" href="https://shelbyltd.netlify.app/" role="button" target="_blank">Live <i
                       class="fa-brands fa-internet-explorer"></i></a></center>
                     <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/ShelbyLtd.git"
-                        role="button" target="_blank">GitHub <i class="fa-brands fa-github"></i></a></center>
+                        role="button" target="_blank">GitHub </a></center>
                   </div>
                 </div>
               </div>
 
               
             </div>
+            <br>
+  
+                
+             
+
+
+
+
+
+              
             <br>
 
 
@@ -407,8 +428,8 @@
 
 
 
-
-
+<br>
+<br>
               <!-- Contact Section -->
               <div id="contact">
                 
@@ -455,6 +476,14 @@
           </template>
 
   <style>
+  
+  body {
+  background-color: #100e17;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
   .mrrobot{
     height: 235px;
   }
@@ -598,6 +627,82 @@
 @media screen and (max-width:767px){
     .main-timeline .timeline{ width: 100%; }
 }
+
+figure.snip1192 {
+  font-family: 'Raleway', Arial, sans-serif;
+  position: relative;
+  float: left;
+  overflow: hidden;
+  margin: 10px 1%;
+  min-width: 220px;
+  max-width: 310px;
+  width: 100%;
+  color: #333;
+  text-align: left;
+  box-shadow: none !important;
+}
+figure.snip1192 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+figure.snip1192 img {
+  max-width: 100%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+  display: inline-block;
+  z-index: 1;
+  position: relative;
+}
+figure.snip1192 blockquote {
+  margin: 0;
+  display: block;
+  border-radius: 8px;
+  position: relative;
+  background-color: #fafafa;
+  padding: 30px 50px 65px 50px;
+  font-size: 0.8em;
+  font-weight: 500;
+  margin: 0 0 -50px;
+  line-height: 1.6em;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+figure.snip1192 blockquote:before,
+figure.snip1192 blockquote:after {
+  font-family: 'FontAwesome';
+  content: "\201C";
+  position: absolute;
+  font-size: 50px;
+  opacity: 0.3;
+  font-style: normal;
+}
+figure.snip1192 blockquote:before {
+  top: 35px;
+  left: 20px;
+}
+figure.snip1192 blockquote:after {
+  content: "\201D";
+  right: 20px;
+  bottom: 35px;
+}
+figure.snip1192 .author {
+  margin: 0;
+  text-transform: uppercase;
+  text-align: center;
+  color: #ffffff;
+}
+figure.snip1192 .author h5 {
+  opacity: 0.8;
+  margin: 0;
+  font-weight: 800;
+}
+figure.snip1192 .author h5 span {
+  font-weight: 400;
+  text-transform: none;
+  display: block;
+}
+
   </style>
 
 
