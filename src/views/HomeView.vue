@@ -3,22 +3,14 @@
   <title>Portfolio</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
   <link rel="shortcut icon" href="https://i.postimg.cc/4NhTzjcV/smiley-PNG10.png" type="image/x-icon">
-  
- </head>
- 
-  
-  <NavBar/>
+  </head>
+<NavBar/>
 
-  
-
-  <body class="w3-black">
-  <!-- Page Content -->
+<body class="w3-black">
   <div class="w3-padding-large" id="main">
-    <!-- Header/Home -->
     <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
       <h3>Im a </h3>
       <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Moegamad Faeez Miller</h1>
@@ -27,12 +19,7 @@
     </header>
   </div>
 
-  <body>
-  </body>
- 
-   <!-- About Section -->
-   
-   <div class="-padding-64 w3-content w3-text-light-grey" id="about">
+<div class="-padding-64 w3-content w3-text-light-grey" id="about">
     </div>
     <h2 class="w3-padding-16 w3-text-light-grey">About</h2>
     <hr style="width:155px" class="w3-opacity">
@@ -48,9 +35,6 @@
           responsibilities within a wide range of employment areas. I have an active and dynamic approach to work and
           getting things done. I am determined and decisive.</p>
       
-        
-      
-
       <h2 class="w3-padding-16 w3-text-light-grey">My Skills</h2>
       <hr style="width:150px" class="w3-opacity">
       <!--skill bars-->
@@ -70,43 +54,38 @@
       </div>
       
       <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">1+</span><br>
+        <span class="w3-xlarge">6+</span><br>
         Projects Done
       </div>
       <div class="w3-quarter w3-section">
         <span class="w3-xlarge">2+</span><br>
         Happy Clients
       </div>
-      <br>
-   
-      
-  
+    <br>
     <br>
     <br>
     <br>
     
-    <div class="-padding-64 w3-content w3-text-light-grey" id="testimonials">
-    </div>
+    <div class="-padding-64 w3-content w3-text-light-grey" id="testimonials"></div>
     <h2 class="w3-padding-16 w3-text-light-grey">Testimonials</h2>
     <hr style="width:155px" class="w3-opacity">
     
-    <figure class="testimonial">
-      <blockquote>Faeez is a hardworking, focused individual. I have a deep respect for his work ethic.</blockquote>
-      <div class="author">
-        <img src="https://i.postimg.cc/YC9CDfqX/3gwnhdk9.png" alt="@John Noad"/>
-        <h5>John Noad<span> Software Developer</span></h5>
-  </div>
-</figure>
-      <figure class="testimonial">
-  <blockquote>Faeez Miller is a down to earth, kind ,creative mature colleague. I highly admire his work ethic and passion.</blockquote>
-  <div class="author">
-    <img src="https://i.postimg.cc/Fs7p907q/cam.jpg" alt="@Camryn Herandien"/>
-    <h5>Camryn Herandien <span> Software Developer</span></h5>
+<figure class="testimonial">
+    <blockquote>Faeez is a hardworking, focused individual. I have a deep respect for his work ethic.</blockquote>
+    <div class="author">
+    <img src="https://i.postimg.cc/YC9CDfqX/3gwnhdk9.png" alt="@John Noad"/>
+    <h5>John Noad<span> Software Developer</span></h5>
   </div>
 </figure>
 <figure class="testimonial">
-  <blockquote>Faeez is hardworking, meticulous. I can proudly say his approach towards
-            work is always steadfast, which gets the task done without wasting time.</blockquote>
+  <blockquote>Faeez Miller is a down to earth, kind ,creative mature colleague. I highly admire his work ethic and passion.</blockquote>
+  <div class="author">
+  <img src="https://i.postimg.cc/Fs7p907q/cam.jpg" alt="@Camryn Herandien"/>
+  <h5>Camryn Herandien <span> Software Developer</span></h5>
+  </div>
+</figure>
+<figure class="testimonial">
+  <blockquote>Faeez is hardworking, meticulous. I can proudly say his approach towards work is always steadfast, which gets the task done without wasting time.</blockquote>
   <div class="author">
     <img src="https://i.postimg.cc/7hQp5D1y/52uigqv3.png" alt="@Deno Rautenbach"/>
     <h5>Deno Rautenbach<span> Software Developer</span></h5>
@@ -134,11 +113,11 @@
   </div>
 </figure>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
           <br>
           <br>
           <br>
@@ -165,135 +144,95 @@
           
           <br>
        
-          <div class="-padding-64 w3-content w3-text-light-grey" id="projects">
-    </div>
+    <div class="-padding-64 w3-content w3-text-light-grey" id="projects"></div>
     <h2 class="w3-padding-16 w3-text-light-grey">Projects</h2>
     <hr style="width:120px" class="w3-opacity">
-    
-    
-    
     
     <div class="row">
       <div class="col">
         <div class="card bg-dark text-white" style="width: 18rem ;">
-          <img src="https://i.postimg.cc/C1qcBkqd/8f7687531ae2dc2d2436d157cbae5657.jpg" class="nasa" alt="...">
+          <img src="https://i.postimg.cc/C1qcBkqd/8f7687531ae2dc2d2436d157cbae5657.jpg" class="nasa" >
           <div class="card-body">
-            <center>
-                      <h5 class="card-title">NASAtrips</h5>
-                    </center>
-                    <p class="card-text"></p>
-                    <center><a class="btn btn-dark" href="https://nasatrips.netlify.app" role="button" target="_blank">Live <i
-                          class="fa-brands fa-internet-explorer"></i></a></center>
-                    <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/NASA.git"
-                        role="button" target="_blank">GitHub <i class="fa-brands fa-github"></i></a></center>
+            <center><h5 class="card-title">NASAtrips</h5></center>
+            <p class="card-text"></p>
+            <center><a class="btn btn-dark" href="https://nasatrips.netlify.app" role="button" target="_blank">Live</a></center>
+            <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/NASA.git" role="button" target="_blank">GitHub</a></center>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card bg-dark text-white" style="width: 18rem ;">
-                  <img src="https://i.postimg.cc/x1K3Y6Yx/f992f7f35b6f383625254680b659c6a2.jpg" class="vansltd" alt="...">
+                  <img src="https://i.postimg.cc/x1K3Y6Yx/f992f7f35b6f383625254680b659c6a2.jpg" class="vansltd" >
                   <div class="card-body">
-                    <center>
-                      <h5 class="card-title">VansLtdEdition</h5>
-                    </center>
+                    <center><h5 class="card-title">VansLtdEdition</h5></center>
                     <p class="card-text"></p>
-                    <center><a class="btn btn-dark" href="https://vansltdeomp.netlify.app" role="button" target="_blank">Live <i
-                          class="fa-brands fa-internet-explorer"></i></a></center>
-                    <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/VANS-JSEOMP.git"
-                        role="button" target="_blank">GitHub <i class="fa-brands fa-github"></i></a></center>
+          <center><a class="btn btn-dark" href="https://vansltdeomp.netlify.app" role="button" target="_blank">Live </a></center>
+          <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/VANS-JSEOMP.git" role="button" target="_blank">GitHub </a></center>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card bg-dark text-white" style="width: 18rem  ;">
-                  <img src="https://i.postimg.cc/L4Tb4G42/images.jpg" class="card-img-top" alt="...">
+                  <img src="https://i.postimg.cc/L4Tb4G42/images.jpg" class="card-img-top">
                   <div class="card-body">
                     <center>
                       <h5 class="card-title">NetflixClone</h5>
                     </center>
                     <p class="card-text"></p>
-                    <center><a class="btn btn-dark" href="https://netflixreprint.netlify.app/" role="button" target="_blank">Live <i
-                          class="fa-brands fa-internet-explorer"></i></a></center>
-                    <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/NetFLIX" role="button" target="_blank">GitHub
-                        <i class="fa-brands fa-github"></i></a></center>
+          <center><a class="btn btn-dark" href="https://netflixreprint.netlify.app/" role="button" target="_blank">Live</a></center>
+          <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/NetFLIX" role="button" target="_blank">GitHub</a></center>
                   </div>
                 </div>
               </div>
 
               <div class="col">
                 <div class="card bg-dark text-white" style="width: 18rem ;">
-                  <img src="https://i.postimg.cc/jqgPyLRh/Screenshot-2023-01-10-161916.png" class="port" alt="...">
+                  <img src="https://i.postimg.cc/jqgPyLRh/Screenshot-2023-01-10-161916.png" class="port" >
                   <div class="card-body">
                     <center>
                       <h5 class="card-title">Portfolio</h5>
                     </center>
                     <p class="card-text"></p>
-                    <center><a class="btn btn-dark" href="https://faeezbootstrapportfolio.netlify.app" role="button" target="_blank">Live <i
-                          class="fa-brands fa-internet-explorer"></i></a></center>
-                    <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/Portfolio"
-                        role="button" target="_blank">GitHub <i class="fa-brands fa-github"></i></a></center>
+            <center><a class="btn btn-dark" href="https://faeezbootstrapportfolio.netlify.app" role="button" target="_blank">Live</a></center>
+            <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/Portfolio" role="button" target="_blank">GitHub</a></center>
                   </div>
                 </div>
               </div>
               <div class="col">
                 <div class="card bg-dark text-white" style="width: 18rem ;">
-                  <img src="https://i.postimg.cc/C1x1fW8k/mr-robot-hackerman.jpg" class="card-img-top" alt="...">
+                  <img src="https://i.postimg.cc/C1x1fW8k/mr-robot-hackerman.jpg" class="card-img-top">
                   <div class="card-body">
-                    <center>
-                      <h5 class="card-title">MrRobot</h5>
-                    </center>
+                  <center><h5 class="card-title">MrRobot</h5></center>
                     <p class="card-text"></p>
-                    <center><a class="btn btn-dark" href="https://hellofriendmrrobot.netlify.app/" role="button" target="_blank">Live <i
-                          class="fa-brands fa-internet-explorer"></i></a></center>
-                    <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/MrRobot" role="button" target="_blank">GitHub
-                        <i class="fa-brands fa-github"></i></a></center>
+            <center><a class="btn btn-dark" href="https://hellofriendmrrobot.netlify.app/" role="button" target="_blank">Live </a></center>
+            <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/MrRobot" role="button" target="_blank">GitHub</a></center>
                   </div>
                 </div>
               </div>
 
-              
-
-              <div class="col">
+             <div class="col">
                 <div class="card bg-dark text-white" style="width: 18rem ;">
-                  <img src="https://i.postimg.cc/4d8GBLDp/Shelby-Company-LTD.jpg" class="shelby" alt="...">
+                  <img src="https://i.postimg.cc/4d8GBLDp/Shelby-Company-LTD.jpg" class="shelby">
                   <div class="card-body">
-                    <center>
-                      <h5 class="card-title">ShelbyLtd</h5>
-                    </center>
+                    <center><h5 class="card-title">ShelbyLtd</h5></center>
                     <p class="card-text"></p>
-                    <center><a class="btn btn-dark" href="https://shelbyltd.netlify.app/" role="button" target="_blank">Live <i
-                      class="fa-brands fa-internet-explorer"></i></a></center>
-                    <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/ShelbyLtd.git"
-                        role="button" target="_blank">GitHub </a></center>
+            <center><a class="btn btn-dark" href="https://shelbyltd.netlify.app/" role="button" target="_blank">Live</a></center>
+            <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/ShelbyLtd.git" role="button" target="_blank">GitHub </a></center>
                   </div>
                 </div>
               </div>
-
-              
             </div>
             <br>
-  
-                
-             
-
-
-
-
-
-              
             <br>
 
 
-            <!-- Portfolio Section -->
+
             <br>
             <br>
-            <div class="-padding-64 w3-content w3-text-light-grey" id="photos">
-    </div>
+            <div class="-padding-64 w3-content w3-text-light-grey" id="photos"></div>
     <h2 class="w3-padding-16 w3-text-light-grey">Photos</h2>
     <hr style="width:120px" class="w3-opacity">
 
-            
-          
           <div class="row">
               <div class="col">
                 <center><img src="https://i.postimg.cc/vmQ8JXYh/00601cce-130b-4021-88ec-eb1c01403738.jpg"
@@ -417,21 +356,29 @@
                   </p>
                 </form>
               </div>
+              <br>
+              <br>
+              <center><h3> MOEGAMAD FAEEZ MILLER &copy;2023</h3></center>
+              <center><img src="https://i.postimg.cc/pXTY3dWC/slack-1.png" class="slack"
+              style="height: 30px; width: 30px;">
+              <img src="https://i.postimg.cc/QM6CvcXx/icons8-github-50.png" class="github"
+              style="height: 30px; width: 30px;">
+              <img src="https://i.postimg.cc/Qxpymbb5/icons8-stack-overflow-50.png" class="stackoverflow"
+              style="height: 30px; width: 30px;">
+              <img src="https://i.postimg.cc/nhrwxJxK/icons8-linkedin-24.png" class="linkedin"
+              style="height: 30px; width: 30px;">
+              <img src="https://i.postimg.cc/tRLMjfT8/icons8-pinterest-24.png" class="pinterest"
+              style="height: 30px; width: 30px;">
+              <img src="https://i.postimg.cc/0QvyFZSS/icons8-youtube-logo-24.png" class="youtube"
+              style="height: 30px; width: 30px;">
+            </center>
 
-              <center>
-                <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
-                  <i class="fa fa-facebook-official w3-hover-opacity"></i>
-                  <i class="fa fa-instagram w3-hover-opacity"></i>
-                  <i class="fa fa-snapchat w3-hover-opacity"></i>
-                  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-                  <i class="fa fa-twitter w3-hover-opacity"></i>
-                  <i class="fa fa-linkedin w3-hover-opacity"></i>
-                </footer>
-              </center>
+             
 
               
 
             </body >
+            <FooterVue/>
           </template>
           
         
@@ -575,7 +522,7 @@ figure.testimonial {
   min-width: 220px;
   max-width: 310px;
   width: 100%;
-  color: #333;
+  color: black;
   text-align: left;
   box-shadow: none !important;
 }
@@ -649,8 +596,7 @@ figure.testimonial .author h5 span {
     components:{
       NavBar
     }
-   }
-   
+   } 
   </script>
   
   
