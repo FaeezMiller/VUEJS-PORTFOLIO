@@ -12,7 +12,8 @@
       
       <h3>ABOUT</h3>
     </a>
-    <a href="#testimonials" class="w3-bar-item w3-button w3-padding-large w3-black">
+    
+     <a href="#testimonials" class="w3-bar-item w3-button w3-padding-large w3-black">
       
       <h3>TESTIMONIALS</h3>
     </a>
@@ -46,6 +47,13 @@
   </div>
   </nav> 
 </template>
+
+<style>
+ .mrrobot{
+       height: 32%;
+  }
+  
+</style>
 
 <script>
 export default{

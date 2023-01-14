@@ -12,8 +12,11 @@
 <body class="w3-black">
   <div class="w3-padding-large" id="main">
     <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
+      
       <h3>Im a </h3>
       <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Moegamad Faeez Miller</h1>
+      
+      
       <img src="https://i.postimg.cc/wMyzQmwh/33f78851-dc97-4d4d-8b3e-7801158d376a.jpg" alt="Avatar" class="picture"
         style="height: 550px; width: 550px;">
     </header>
@@ -159,7 +162,7 @@
             <center><a class="btn btn-dark" href="https://github.com/FaeezMiller/NASA.git" role="button" target="_blank">GitHub</a></center>
                   </div>
                 </div>
-              </div>
+            </div>
               <div class="col">
                 <div class="card bg-dark text-white" style="width: 18rem ;">
                   <img src="https://i.postimg.cc/x1K3Y6Yx/f992f7f35b6f383625254680b659c6a2.jpg" class="vansltd" >
@@ -389,9 +392,7 @@
        background-color: #100e17;
        font-family: 'Open Sans', sans-serif;
        }
-  .mrrobot{
-       height: 235px;
-  }
+ 
   .picture2{
     height: 600px;
     width: 550px;
@@ -587,6 +588,8 @@ figure.testimonial .author h5 span {
   text-transform: none;
   display: block;
 }
+
+
 
   </style>
 
